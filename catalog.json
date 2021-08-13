@@ -1,0 +1,17 @@
+[
+  {
+    "name": "T-Rex",
+    "description": "Tyrannosaurus rex (del griego latinizado tyrannus 'tirano' y saurus 'lagarto', y el latín rex, 'rey'), es la única especie conocida del género fósil Tyrannosaurus de dinosaurio terópodo tiranosáurido, que vivió a finales del período Cretácico, hace aproximadamente entre 68 y 66 millones de años",
+    "image_url": "https://raw.githubusercontent.com/rubenmv0/fp/main/t-rex.jpg"
+  },
+  {
+    "name": "Spinosaurus",
+    "description": "Spinosaurus aegyptiacus (gr. «lagarto de espina») es un género representado por una especie de dinosaurio terópodo espinosáurido, que vivió en lo que actualmente es el norte de África desde el Albiense Inferior hasta el Cenomaniense Inferior del periodo Cretácico, hace aproximadamente 112 a 93,5 millones de años",
+    "image_url": "https://raw.githubusercontent.com/rubenmv0/fp/main/spin.jpg"
+  },
+  {
+    "name": "Triceratops",
+    "description": "Triceratops (del griego tri-/τρι- ='tres', kéras/κέρας ='cuerno', y -ōps/-ωψ ='cara';'cara con tres cuernos'), o el tricerátops, es un género de dinosaurios ceratopsianos ceratópsidos, que vivieron a finales del período Cretácico, hace aproximadamente 68 y 66 millones de años, en el Maastrichtiense, en lo que hoy es Norteamérica",
+    "image_url": "https://raw.githubusercontent.com/rubenmv0/fp/main/tric.jpg"
+  }
+]
