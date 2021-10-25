@@ -5,6 +5,10 @@
   },
   {
     "obra_de_arte": "Perrete",
-    "image_url": "https://raw.githubusercontent.com/rubenmv0/fp/main/Perro.jpg"
+    "image_url": "https://raw.githubusercontent.com/rubenmv0/fp/main/Perro.png"
+  },
+  {
+    "obra_de_arte": "Ink Palace",
+    "image_url": "https://raw.githubusercontent.com/rubenmv0/fp/main/InkPalace.png"
   }
 ]
